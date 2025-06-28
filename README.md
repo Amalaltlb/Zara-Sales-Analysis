@@ -2,7 +2,7 @@
 
 This project analyzes Zara product sales to uncover purchasing patterns, product performance, and revenue drivers. Built using Power BI and Python, the dashboard supports decision-making around inventory, promotions, and pricing strategies.
 
-> **Note**: This dashboard was created as part of a data analyst hands-on training project.
+> **Note**: This dashboard was created as part of a data analyst hands-on training project to gain real world experience.
 
 ---
 
@@ -64,7 +64,7 @@ This dashboard is organized into four key analysis areas:
 - `Zara Sales Dashboard.pbix` – Power BI file  
 - `Zara_Sales_Analysis.ipynb` – Python analysis notebook  
 - `Zara Sales Dashboard screenshot.png` – Dashboard image  
-- `README.md` – Project summary and documentation  
+- `README.md` – Project summary   
 
 ---
 
@@ -81,3 +81,8 @@ This dashboard is organized into four key analysis areas:
 - Visualizing metrics to support product and pricing decisions  
 - Using feature engineering to enrich datasets (e.g., revenue calculation)  
 - Building a business-oriented dashboard using Power BI
+
+
+
+
+
