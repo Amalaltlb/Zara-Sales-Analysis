@@ -3,6 +3,7 @@
 This project analyzes Zara product sales to uncover purchasing patterns, product performance, and revenue drivers. Built using Power BI and Python, the dashboard supports decision-making around inventory, promotions, and pricing strategies.
 
 > **Note**: This dashboard was created as part of a data analyst hands-on training project to gain real world experience.
+
 > **Data Source**: Kaggle. 
 ---
 
