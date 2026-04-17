@@ -79,12 +79,13 @@ This dashboard is organized into four key analysis areas:
 ## 💡 What I Learned
 
 - Preparing and cleaning a Kaggle retail dataset using Python Pandas
-- Applying feature engineering to enrich raw data 
+- Applying feature engineering to enrich raw data
   (e.g., calculating revenue from price and quantity columns)
-- Translating business questions into dashboard metrics 
+- Translating business questions into dashboard metrics
   (placement impact, promotion effectiveness, seasonal demand)
-- Building a business-oriented Power BI dashboard with KPI cards, 
+- Building a business-oriented Power BI dashboard with KPI cards,
   filters, and actionable recommendations for non-technical stakeholders
+
 
 
 
