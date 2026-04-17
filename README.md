@@ -1,4 +1,4 @@
-# 🛍 Zara Sales Analysis & Performance Dashboard —— Python & Power BI
+# 🛍 Zara Sales Analysis & Performance Dashboard — Python & Power BI
 
 This project analyzes Zara product sales to uncover purchasing patterns, product performance, and revenue drivers. Built using Power BI and Python, the dashboard supports decision-making around inventory, promotions, and pricing strategies.
 
