@@ -47,16 +47,16 @@ This dashboard is organized into four key analysis areas:
 - **Jackets** had the highest revenue at 26.3M and the highest sales volume across all product types. They sell strongly both seasonally and non-seasonally, making them the most important product to keep well stocked and visible.
 - **Sweaters** showed strong seasonal demand and should be prominently displayed during peak seasons.
 - **Front-of-store placement** showed marginally higher average sales volume than aisle or end-cap positions, though the difference between all three was small.  
-- **Promoted products** generated marginly more total revenue at 51% versus 49% for non-promoted items, suggesting selective promotion is more effective thant broad discounting across all products.
+- **Promoted products** generated slightly more total revenue at 51% versus 49% for non-promoted items, suggesting selective promotion is more effective thant broad discounting across all products.
 
 ---
 
 ## 📌 Business Recommendations
 
-- Increase visibility of **jackets** by placing them at the front of the store or near high-traffic areas.
-- Consider **limiting deep discounts** on high-demand items (like jackets) since they sell well even without promotions.
+- Increase visibility of **jackets** by placing them at the front of the store or near high-traffic areas, paticulary during peak seasons.
+- Jacket promotions boosted revenue, but discounts should be managed carefully to protect profit margins.
 - Promote **shoes and T-shirts** more aggressively to boost their sales volume and reduce inventory.
-- Review pricing strategy for **jeans**, as low revenue may suggest limited demand or overpricing.
+- Review pricing strategy for **jeans**, as low revenue and low sales volume suggest either limited demand or overpricing.
 
 ---
 
